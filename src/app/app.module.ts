@@ -24,9 +24,10 @@ import { MatPaginatorModule } from '@angular/material/paginator';
 import { MatSortModule } from '@angular/material/sort';
 import { MatDialogModule } from '@angular/material/dialog';
 import { DialogComponent } from './dialog/dialog.component';
+import { HomeComponent } from './home/home.component';
 
 @NgModule({
-  declarations: [AppComponent, NavComponent, AddressComponent, TableComponent, DialogComponent],
+  declarations: [AppComponent, NavComponent, AddressComponent, TableComponent, DialogComponent, HomeComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
