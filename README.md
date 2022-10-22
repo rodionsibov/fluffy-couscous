@@ -1,4 +1,5 @@
 # Candeactivate
+[![Netlify Status](https://api.netlify.com/api/v1/badges/87c355d5-f8d3-4a64-9510-63af5a4c8c8a/deploy-status)](https://app.netlify.com/sites/teal-alfajores-504939/deploys)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
 
